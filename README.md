@@ -1,7 +1,4 @@
 # MyCoreApp
-Tutorial básico apresentando o .NET. Foram seguindo os passos apresentados no Microsoft Learn, 'Tutorial: Introdução ao C# e ao ASP.NET Core no Visual Studio'
-
-# MyCoreApp
 
 Este projeto foi criado com base no tutorial oficial da Microsoft para aplicações ASP.NET Core usando C#. Ele é um exemplo prático de como configurar, desenvolver e executar uma aplicação web básica com ASP.NET Core.
 
